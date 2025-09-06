@@ -44,7 +44,7 @@ It has a React frontend, Express backend, and PostgreSQL database.
 
 5. Run frontend → npm run dev:web  
 
-6. Open app at https://replit.com/@lukarthik67/EcoFinds#replit.md%60 
+6. Open app at - https://65f16a28-6b0c-4726-b3b4-f8c22fda531a-00-15iw38rdjuwdx.janeway.replit.dev/
  click on preview to see the pages
 
 
