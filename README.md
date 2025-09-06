@@ -55,13 +55,3 @@ It has a React frontend, Express backend, and PostgreSQL database.
 - /api/cart → cart  
 
 - /api/orders → orders  
-
-
-
-## Deployment
-
-- Frontend → Vercel/Netlify  
-
-- Backend → Replit/Render  
-
-- Database → Neon
